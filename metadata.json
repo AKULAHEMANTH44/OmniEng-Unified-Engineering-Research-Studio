@@ -1,0 +1,6 @@
+{
+  "name": "OmniEng: Unified Engineering & Research Studio",
+  "description": "Next-generation engineering and research workbench for Diploma, B.Tech, and M.Tech scholars. Features deep mathematical derivations, multi-discipline solvers, interactive simulators, research paper synthesizer, and scientific code generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
